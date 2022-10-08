@@ -1,0 +1,25 @@
+* {
+  /* margin: 0;
+  padding: 0;
+  box-sizing: border-box; */
+}
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ravi {
+  /* padding: 50px; */
+  display: flex;
+  height: 200px;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+
+  border: 1px solid;
+}
+.display {
+  transform: translate(-110px, 50px);
+}
